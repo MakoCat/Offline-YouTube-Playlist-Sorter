@@ -30,3 +30,10 @@ If it doesn't say it is a .py file, double check the file name ends with .py, in
 
 
   *It should be noted that, at least when using a new API key, users are limited to 10,000 API request per day. But who has playlists that long.*
+
+
+
+  ## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
